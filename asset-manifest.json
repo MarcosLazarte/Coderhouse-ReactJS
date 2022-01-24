@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Coderhouse-ReactJS/static/css/main.d393ed66.chunk.css",
-    "main.js": "/Coderhouse-ReactJS/static/js/main.1486630b.chunk.js",
-    "main.js.map": "/Coderhouse-ReactJS/static/js/main.1486630b.chunk.js.map",
+    "main.js": "/Coderhouse-ReactJS/static/js/main.9b7ec1bf.chunk.js",
+    "main.js.map": "/Coderhouse-ReactJS/static/js/main.9b7ec1bf.chunk.js.map",
     "runtime-main.js": "/Coderhouse-ReactJS/static/js/runtime-main.648b3972.js",
     "runtime-main.js.map": "/Coderhouse-ReactJS/static/js/runtime-main.648b3972.js.map",
     "static/js/2.c1b218db.chunk.js": "/Coderhouse-ReactJS/static/js/2.c1b218db.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.648b3972.js",
     "static/js/2.c1b218db.chunk.js",
     "static/css/main.d393ed66.chunk.css",
-    "static/js/main.1486630b.chunk.js"
+    "static/js/main.9b7ec1bf.chunk.js"
   ]
 }
