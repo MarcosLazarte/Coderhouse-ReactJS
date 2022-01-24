@@ -65,7 +65,15 @@ function App() {
             <Route exact path="/">
               <Home/>
             </Route>
-
+            <Route exact path="/home">
+              <Home/>
+            </Route>
+            <Route exact path="/Coderhouse-ReactJS">
+              <Home/>
+            </Route>
+            <Route exact path="/marcoslazarte.github.io/Coderhouse-ReactJS/">
+              <Home/>
+            </Route>
             <Route exact path="/items/:codigo" component={Item}>
             </Route>
 
